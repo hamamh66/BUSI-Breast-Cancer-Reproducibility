@@ -1,0 +1,2 @@
+dataset,protocol,overall_test_accuracy,auc,weighted_precision,weighted_recall,weighted_f1,scope_note
+BUSI,80:20 train-test split,0.885,0.985,0.86,0.86,0.86,Results-only audit mode; no new cross-validation or external validation.

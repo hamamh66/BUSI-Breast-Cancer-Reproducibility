@@ -1,0 +1,10 @@
+{
+  "dataset": "BUSI",
+  "protocol": "80:20 train-test split",
+  "overall_test_accuracy": 0.885,
+  "auc": 0.985,
+  "weighted_precision": 0.86,
+  "weighted_recall": 0.86,
+  "weighted_f1": 0.86,
+  "scope_note": "Results-only audit mode; no new cross-validation or external validation."
+}
